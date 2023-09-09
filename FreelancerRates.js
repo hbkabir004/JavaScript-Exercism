@@ -24,4 +24,4 @@ const priceWithMonthlyDiscount = (ratePerHour, numDays, discount) => {
    
 }
 
-console.log(priceWithMonthlyDiscount(89, 230, .42));
+// console.log(priceWithMonthlyDiscount(89, 230, .42));
